@@ -1,0 +1,43 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "استوديو السيرة | ATS CV Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 6513,
+      "bodyTextHash": "b5b03643d52453a12fb53b52fca248ee9d1c6009a0f76a1a5187440bbb5ca376",
+      "bodyTextPrefix": "استوديو السيرة آية محمود حسن يُحفظ تلقائيًا على هذا الجهاز Engli",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "استوديو السيرة | ATS CV Studio",
+      "hasCanvas": false,
+      "bodyTextLen": 734,
+      "bodyTextHash": "227b7819728c089af4fc27f049b06040452ff2de14fe89504906fb06bada9dca",
+      "bodyTextPrefix": "استوديو السيرة آية محمود حسن يُحفظ تلقائيًا على هذا الجهاز Engli",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: title changed (\"Hussein Ramadan | ATS Resume\" -> \"استوديو السيرة | ATS CV Studio\")",
+    "desktop: body text changed (2615 -> 6513 chars, hash mismatch)",
+    "mobile: title changed (\"Hussein Ramadan | ATS Resume\" -> \"استوديو السيرة | ATS CV Studio\")",
+    "mobile: body text changed (618 -> 734 chars, hash mismatch)"
+  ]
+}

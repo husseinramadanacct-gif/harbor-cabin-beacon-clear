@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Hussein Ramadan | ATS Resume",
+      "hasCanvas": false,
+      "bodyTextLen": 2615,
+      "bodyTextHash": "8f70034be97539dc8e3216a199d14bb309af3eff70fd4c526f88d15c08cc03f8",
+      "bodyTextPrefix": "استوديو السيرة أنشئ وعدّل سيرة ATS من اللينك مباشرة يُحفظ تلقائي",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Hussein Ramadan | ATS Resume",
+      "hasCanvas": false,
+      "bodyTextLen": 618,
+      "bodyTextHash": "8c3c775875de99b554aa0920333418be9b7b1bc5828cdc83a740547b27bcc6ee",
+      "bodyTextPrefix": "استوديو السيرة أنشئ وعدّل سيرة ATS من اللينك مباشرة يُحفظ تلقائي",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
